@@ -1,0 +1,9 @@
+#Es comentario persona2
+INICIAR() {}
+    cts id = 2;
+    mostrar ( 'a' ); 
+    clase ola {}
+        proced Suma(entero a,entero b){devolver a+b;}
+    
+
+
